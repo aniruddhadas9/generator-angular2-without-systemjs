@@ -1,6 +1,6 @@
 {
   "name": "generator-angular2-without-systemjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "angular2 application with systemjs build which will use systemjs dynamic loading. The application have 3 pages with angular2 in build router to navigate between pages. It have all basic functionality which a standard angualr2 application needed. ",
   "homepage": "https://github.com/aniruddhadas9/generator-angular2-without-systemjs",
   "author": {
